@@ -30,6 +30,8 @@ const routes: RouteConfig[] = [
 ];
 
 const router = new VueRouter({
+  base: '/suning/',
+  mode: 'hash',
   routes,
 });
 

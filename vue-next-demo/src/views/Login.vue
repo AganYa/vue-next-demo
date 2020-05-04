@@ -96,6 +96,7 @@ export default {};
         outline: none;
         height: 1.34rem;
         font-size: 0.7rem;
+        width: 100%;
         &::placeholder {
           height: 1.34rem;
           line-height: 1rem;
